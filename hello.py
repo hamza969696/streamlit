@@ -1,5 +1,3 @@
-pip install cleantext
-
 import streamlit as st
 import cleantext
 from textblob import TextBlob 
